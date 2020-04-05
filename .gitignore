@@ -1,0 +1,12 @@
+node_modules/
+dist/
+output/
+.idea/
+*.log
+Thumbs.db
+.DS_Store
+*.swp
+*.gz
+deploy
+.vscode/
+docs

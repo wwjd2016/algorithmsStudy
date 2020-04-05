@@ -1,0 +1,30 @@
+{
+  "name": "algorithmsstudy",
+  "version": "1.0.0",
+  "description": "Study algorithms simplely",
+  "main": "dp-max-sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwjd2016/algorithmsStudy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wwjd2016/algorithmsStudy/issues"
+  },
+  "homepage": "https://github.com/wwjd2016/algorithmsStudy#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
+    "babel-jest": "^25.2.6",
+    "jest": "^25.2.7"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.jsx?$": "babel-jest"
+    }
+  }
+}
